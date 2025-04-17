@@ -27,9 +27,9 @@ export const MenuItems = [
       path: "/pastevents"
     },
     {
-      title : "Upcomming Events", 
+      title : "Upcoming Events", 
       icon:<BsCalendarEventFill />,
-      path: "/upcomming"
+      path: "/upcoming"
     },
     {
         title : "Contact Us", 
